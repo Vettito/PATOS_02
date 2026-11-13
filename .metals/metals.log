@@ -5,3 +5,20 @@
 2026.11.12 23:55:20 INFO  Memory monitor started
 2026.11.12 23:55:28 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.11.12 23:55:32 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:55:33 WARN  no build tool detected in workspace 'C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.11.12 23:55:33 WARN  Build server is not auto-connectable.
+2026.11.12 23:55:34 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java
+2026.11.12 23:55:37 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java
+nov. 12, 2026 11:55:37 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+2026.11.12 23:55:37 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:55:38 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java
+nov. 12, 2026 11:55:38 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+2026.11.12 23:55:38 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:55:38 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+nov. 12, 2026 11:55:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11
+2026.11.12 23:55:52 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:55:54 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:55:56 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
