@@ -22,3 +22,82 @@ ADVERTENCIA: Unmatched cancel notification for request id 11
 2026.11.12 23:55:52 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
 2026.11.12 23:55:54 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
 2026.11.12 23:55:56 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\AccidentProducer.java. Using fallback presentation compiler.
+2026.11.12 23:59:50 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java
+2026.11.12 23:59:50 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.12 23:59:52 WARN  Running javac-semanticdb failed for file:///C:/Users/sopor/OneDrive/Escritorio/PATOS/PATOS_02/SpatialBurstDetector.java. Output:
+
+nov. 13, 2026 12:00:04 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 26
+2026.11.13 00:00:04 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:04 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:04 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java
+2026.11.13 00:00:04 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:04 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:05 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+nov. 13, 2026 12:00:07 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 33
+2026.11.13 00:00:07 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:07 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:07 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java
+2026.11.13 00:00:07 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:11 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:26 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:27 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java
+2026.11.13 00:00:27 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:28 INFO  time: code lens generation in 1.66s
+2026.11.13 00:00:29 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+nov. 13, 2026 12:00:34 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 52
+2026.11.13 00:00:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:36 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:36 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+nov. 13, 2026 12:00:36 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 56
+2026.11.13 00:00:48 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:50 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:50 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+nov. 13, 2026 12:00:51 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 63
+2026.11.13 00:00:50 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:50 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:51 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:00:51 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+nov. 13, 2026 12:00:52 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 66
+2026.11.13 00:01:15 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\SpatialBurstDetector.java. Using fallback presentation compiler.
+2026.11.13 00:02:09 INFO  time: code lens generation in 1.72s
+nov. 13, 2026 12:02:15 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 70
+2026.11.13 00:02:15 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java
+2026.11.13 00:02:15 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:18 WARN  Running javac-semanticdb failed for file:///C:/Users/sopor/OneDrive/Escritorio/PATOS/PATOS_02/TrafficRiskBatch.java. Output:
+
+2026.11.13 00:02:22 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:25 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:25 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:26 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:26 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java
+2026.11.13 00:02:25 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:30 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+nov. 13, 2026 12:02:30 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 82
+2026.11.13 00:02:30 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:30 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:32 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:32 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+nov. 13, 2026 12:02:32 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 86
+2026.11.13 00:02:33 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java
+2026.11.13 00:02:33 WARN  Running javac-semanticdb failed for file:///C:/Users/sopor/OneDrive/Escritorio/PATOS/PATOS_02/TrafficRiskBatch.java. Output:
+
+2026.11.13 00:02:33 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:33 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:34 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java
+2026.11.13 00:02:34 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:38 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
+2026.11.13 00:02:42 WARN  no build target for: C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java
+2026.11.13 00:02:42 INFO  no build target found for C:\Users\sopor\OneDrive\Escritorio\PATOS\PATOS_02\TrafficRiskBatch.java. Using fallback presentation compiler.
